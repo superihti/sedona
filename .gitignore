@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/windows,visualstudio
 # Edit at https://www.gitignore.io/?templates=windows,visualstudio
 
+build
+*.psd
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
